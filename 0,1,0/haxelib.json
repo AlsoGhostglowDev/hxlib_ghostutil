@@ -1,0 +1,13 @@
+{
+  "name": "0.1.0",
+  "url": "https://github.com/TahirKarabekiroglu/SScript",
+  "license": "Apache",
+  "tags": ["util", "utilities"],
+  "description": "Ghost's Utilities in Haxe",
+  "version": "0.1.0",
+  "classPath": "src/",
+  "releasenote": "SScript setup mode",
+  "contributors": ["ghostglowdev"],
+  "dependencies": {
+  }
+}
